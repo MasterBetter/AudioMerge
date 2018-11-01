@@ -1,0 +1,335 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6F9B74FF20A9A18E00FDADA5 /* 她的话触动了我.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6F9B74FE20A9A18E00FDADA5 /* 她的话触动了我.mp3 */; };
+		6F9B750C20AA8FD900FDADA5 /* 小样_00.wav in Resources */ = {isa = PBXBuildFile; fileRef = 6F9B750720AA8FD900FDADA5 /* 小样_00.wav */; };
+		6F9B750D20AA8FD900FDADA5 /* 小样_02.wav in Resources */ = {isa = PBXBuildFile; fileRef = 6F9B750820AA8FD900FDADA5 /* 小样_02.wav */; };
+		6F9B750E20AA8FD900FDADA5 /* 小样_04.wav in Resources */ = {isa = PBXBuildFile; fileRef = 6F9B750920AA8FD900FDADA5 /* 小样_04.wav */; };
+		6F9B750F20AA8FD900FDADA5 /* 小样_03.wav in Resources */ = {isa = PBXBuildFile; fileRef = 6F9B750A20AA8FD900FDADA5 /* 小样_03.wav */; };
+		6F9B751020AA8FD900FDADA5 /* 小样_01.wav in Resources */ = {isa = PBXBuildFile; fileRef = 6F9B750B20AA8FD900FDADA5 /* 小样_01.wav */; };
+		D8964ABC1D82852600F6563C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D8964ABB1D82852600F6563C /* main.m */; };
+		D8964ABF1D82852600F6563C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D8964ABE1D82852600F6563C /* AppDelegate.m */; };
+		D8964AC21D82852600F6563C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D8964AC11D82852600F6563C /* ViewController.m */; };
+		D8964AC51D82852600F6563C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8964AC31D82852600F6563C /* Main.storyboard */; };
+		D8964AC71D82852600F6563C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D8964AC61D82852600F6563C /* Assets.xcassets */; };
+		D8964ACA1D82852600F6563C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D8964AC81D82852600F6563C /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		6F9B74FE20A9A18E00FDADA5 /* 她的话触动了我.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "她的话触动了我.mp3"; sourceTree = "<group>"; };
+		6F9B750720AA8FD900FDADA5 /* 小样_00.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "小样_00.wav"; sourceTree = "<group>"; };
+		6F9B750820AA8FD900FDADA5 /* 小样_02.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "小样_02.wav"; sourceTree = "<group>"; };
+		6F9B750920AA8FD900FDADA5 /* 小样_04.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "小样_04.wav"; sourceTree = "<group>"; };
+		6F9B750A20AA8FD900FDADA5 /* 小样_03.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "小样_03.wav"; sourceTree = "<group>"; };
+		6F9B750B20AA8FD900FDADA5 /* 小样_01.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "小样_01.wav"; sourceTree = "<group>"; };
+		D8964AB71D82852600F6563C /* MergeAudio.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MergeAudio.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D8964ABB1D82852600F6563C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		D8964ABD1D82852600F6563C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		D8964ABE1D82852600F6563C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		D8964AC01D82852600F6563C /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		D8964AC11D82852600F6563C /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		D8964AC41D82852600F6563C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		D8964AC61D82852600F6563C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D8964AC91D82852600F6563C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		D8964ACB1D82852600F6563C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D8964AB41D82852600F6563C /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D8964AAE1D82852600F6563C = {
+			isa = PBXGroup;
+			children = (
+				D8964AB91D82852600F6563C /* MergeAudio */,
+				D8964AB81D82852600F6563C /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D8964AB81D82852600F6563C /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D8964AB71D82852600F6563C /* MergeAudio.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D8964AB91D82852600F6563C /* MergeAudio */ = {
+			isa = PBXGroup;
+			children = (
+				6F9B750720AA8FD900FDADA5 /* 小样_00.wav */,
+				6F9B750B20AA8FD900FDADA5 /* 小样_01.wav */,
+				6F9B750820AA8FD900FDADA5 /* 小样_02.wav */,
+				6F9B750A20AA8FD900FDADA5 /* 小样_03.wav */,
+				6F9B750920AA8FD900FDADA5 /* 小样_04.wav */,
+				6F9B74FE20A9A18E00FDADA5 /* 她的话触动了我.mp3 */,
+				D8964ABD1D82852600F6563C /* AppDelegate.h */,
+				D8964ABE1D82852600F6563C /* AppDelegate.m */,
+				D8964AC01D82852600F6563C /* ViewController.h */,
+				D8964AC11D82852600F6563C /* ViewController.m */,
+				D8964AC31D82852600F6563C /* Main.storyboard */,
+				D8964AC61D82852600F6563C /* Assets.xcassets */,
+				D8964AC81D82852600F6563C /* LaunchScreen.storyboard */,
+				D8964ACB1D82852600F6563C /* Info.plist */,
+				D8964ABA1D82852600F6563C /* Supporting Files */,
+			);
+			path = MergeAudio;
+			sourceTree = "<group>";
+		};
+		D8964ABA1D82852600F6563C /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				D8964ABB1D82852600F6563C /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D8964AB61D82852600F6563C /* MergeAudio */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D8964ACE1D82852600F6563C /* Build configuration list for PBXNativeTarget "MergeAudio" */;
+			buildPhases = (
+				D8964AB31D82852600F6563C /* Sources */,
+				D8964AB41D82852600F6563C /* Frameworks */,
+				D8964AB51D82852600F6563C /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = MergeAudio;
+			productName = MergeAudio;
+			productReference = D8964AB71D82852600F6563C /* MergeAudio.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D8964AAF1D82852600F6563C /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = xindong;
+				TargetAttributes = {
+					D8964AB61D82852600F6563C = {
+						CreatedOnToolsVersion = 7.3.1;
+						DevelopmentTeam = 7G8A6M5N46;
+					};
+				};
+			};
+			buildConfigurationList = D8964AB21D82852600F6563C /* Build configuration list for PBXProject "MergeAudio" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D8964AAE1D82852600F6563C;
+			productRefGroup = D8964AB81D82852600F6563C /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D8964AB61D82852600F6563C /* MergeAudio */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D8964AB51D82852600F6563C /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6F9B750E20AA8FD900FDADA5 /* 小样_04.wav in Resources */,
+				6F9B751020AA8FD900FDADA5 /* 小样_01.wav in Resources */,
+				D8964ACA1D82852600F6563C /* LaunchScreen.storyboard in Resources */,
+				6F9B750C20AA8FD900FDADA5 /* 小样_00.wav in Resources */,
+				D8964AC71D82852600F6563C /* Assets.xcassets in Resources */,
+				D8964AC51D82852600F6563C /* Main.storyboard in Resources */,
+				6F9B750F20AA8FD900FDADA5 /* 小样_03.wav in Resources */,
+				6F9B750D20AA8FD900FDADA5 /* 小样_02.wav in Resources */,
+				6F9B74FF20A9A18E00FDADA5 /* 她的话触动了我.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D8964AB31D82852600F6563C /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D8964AC21D82852600F6563C /* ViewController.m in Sources */,
+				D8964ABF1D82852600F6563C /* AppDelegate.m in Sources */,
+				D8964ABC1D82852600F6563C /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		D8964AC31D82852600F6563C /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D8964AC41D82852600F6563C /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		D8964AC81D82852600F6563C /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D8964AC91D82852600F6563C /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		D8964ACC1D82852600F6563C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		D8964ACD1D82852600F6563C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		D8964ACF1D82852600F6563C /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7G8A6M5N46;
+				INFOPLIST_FILE = MergeAudio/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.xindong.MergeAudio;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		D8964AD01D82852600F6563C /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7G8A6M5N46;
+				INFOPLIST_FILE = MergeAudio/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.xindong.MergeAudio;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D8964AB21D82852600F6563C /* Build configuration list for PBXProject "MergeAudio" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D8964ACC1D82852600F6563C /* Debug */,
+				D8964ACD1D82852600F6563C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D8964ACE1D82852600F6563C /* Build configuration list for PBXNativeTarget "MergeAudio" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D8964ACF1D82852600F6563C /* Debug */,
+				D8964AD01D82852600F6563C /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D8964AAF1D82852600F6563C /* Project object */;
+}
